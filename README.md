@@ -6,15 +6,6 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
 https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa
 
 
-Mis redes sociales:
-
-https://www.instagram.com/nancaro_/
-
-https://twitter.com/nancaro_/
-
-https://www.linkedin.com/in/bruno-aguirre21/
-
-https://github.com/Nancaro
 
 ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
   <div>
