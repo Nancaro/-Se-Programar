@@ -16,16 +16,24 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
 
  <a href="https://discord.gg/thxTgQaDzw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-
 * Comunidad de discord #Yo programo.
 
  <a href="https://discord.gg/dYTEPeJETs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+* Comunidad de facebook Comunidad Mumuki.
+
+ <a href="https://www.facebook.com/groups/comunidad.mumuki" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
+* Comunidad de facebook Argentina Programa.
+
+<a href="https://www.facebook.com/groups/1263114877420328" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+
 
 
 ## Recursos en vídeo sobre el programa.
 * ARGENTINA PROGRAMA: Análisis ¿Anotarse o no? - MaxiPrograma.
 
-<a href="https://youtu.be/v7CnEYaXUdY"><img src="https://i.ytimg.com/vi_webp/v7CnEYaXUdY/hqdefault.webp" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/v7CnEYaXUdY"><img src="https://i.ytimg.com/vi/v7CnEYaXUdY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 * ANALIZO EL PROYECTO ARGENTINA PROGRAMA - ¿VALE LA PENA? -SoyDalto.
 
@@ -45,6 +53,25 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
 * Qué pienso de "Argentina Programa" [Como developer remoto] - Daniel Nuske
 <a href="https://www.youtube.com/watch?v=9Aotbde6PG0"><img src="https://i.ytimg.com/vi/9Aotbde6PG0/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
 
+## Webinars en vídeo sobre el programa.
+* Argentina Programa - ¿Cómo ingreso y utilizo la plataforma?
+
+<a href="https://www.youtube.com/watch?v=mb5127xJE30"><img src="https://i.ytimg.com/vi/mb5127xJE30/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Módulo de Fundamentos - Argentina Programa
+
+<a href="https://www.youtube.com/watch?v=6nP6CVg6BQg"><img src="https://i.ytimg.com/vi/mb5127xJE30/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Argentina Programa - Webinar Módulo 1 - Fundamentos de la Programación - [Edición_0322]
+
+<a href="https://www.youtube.com/watch?v=t02gmf5lyFc"><img src="https://i.ytimg.com/vi/t02gmf5lyFc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Charla Modulo 2: Programación imperativa y Estructura de Datos
+
+<a href="https://www.youtube.com/watch?v=dvxjdLXVYTM"><img src="https://i.ytimg.com/vi/dvxjdLXVYTM/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Módulo 3: Programación con objetos
+
+<a href="https://www.youtube.com/watch?v=CvRxKLi_HO8"><img src="https://i.ytimg.com/vi/CvRxKLi_HO8/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Argentina Programa - #SéProgramar - Webinar Módulo 3 - Programación con Objetos
+
+<a href="https://www.youtube.com/watch?v=E0bIah6UIS4"><img src="https://i.ytimg.com/vi/E0bIah6UIS4/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 ## Enlaces de interes.
 
  https://htmlcheatsheet.com/js/
