@@ -1,10 +1,14 @@
 # Argentina Programa- Sé programar.
-1ra etapa- Mumuki.
+
+1ra etapa- Fundamentos/ Javascript/ POO - Mumuki.
+
+<a href= "https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa"> <img src= "https://media-exp1.licdn.com/dms/image/C4D22AQHy6yrJGqNEtw/feedshare-shrink_2048_1536/0/1667848275737?e=1671062400&v=beta&t=p2FxTqJUoLqF8KPepqvzSU0L6Hg96aPb0lzU_AKc7Gs" style="height: 50%; width:50%;"/></a>
 
 Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa
-aaa
+
+
+## Recursos en vídeo.
 
 
 ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
