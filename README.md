@@ -73,6 +73,11 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
 * Argentina Programa - #SéProgramar - Webinar Módulo 3 - Programación con Objetos
 
 <a href="https://www.youtube.com/watch?v=E0bIah6UIS4"><img src="https://i.ytimg.com/vi/E0bIah6UIS4/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* Examen de certificación - Argentina Programa
+
+<a href="https://www.youtube.com/watch?v=QtueuSxqZbA"><img src="https://i.ytimg.com/vi/QtueuSxqZbA/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
 ## Enlaces de interes.
 
  https://htmlcheatsheet.com/js/
@@ -107,6 +112,34 @@ https://guides.rubyonrails.org/
 https://devdocs.io/rails~6.0/
 
 https://api.rubyonrails.org/
+
+## Recursos en vídeo sobre el examen.
+* Argentina Programa | Ejercicios Resueltos | Exámen | OFFTOPIC - Feefer
+
+<a href="https://www.youtube.com/watch?v=Y9K7PgVuJMI"><img src="https://i.ytimg.com/vi/Y9K7PgVuJMI/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Examen ARG PROGRAMA #SéProgramar - Tomas Porrini - Tomas Porrini
+
+<a href="https://www.youtube.com/watch?v=vjBRmg8d76o&"><img src="https://i.ytimg.com/vi/vjBRmg8d76o/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Examen #SeProgramar 2022 - Joe's Stuff
+
+<a href="https://www.youtube.com/watch?v=JOH_EsTibis"><img src="https://i.ytimg.com/vi/JOH_EsTibis/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Cómo es el EXAMEN FINAL de Argentina Programa 2022 (🎁 Ejercicios RESUELTOS) | Examen Mumuki ✅ - BitFlex
+
+<a href="https://www.youtube.com/watch?v=Vq7UUXQbkHA&"><img src="https://i.ytimg.com/vi/Vq7UUXQbkHA/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Exámen Argentina Programa Abril 2022 - Adrian Moreno
+
+<a href="https://www.youtube.com/watch?v=UOuaSuWBsRc"><img src="https://i.ytimg.com/vi/UOuaSuWBsRc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Examen Argentina Programa #SeProgramar 2022 - Diego Pico
+
+<a href="https://www.youtube.com/watch?v=E0bIah6UIS4"><img src="https://i.ytimg.com/vi/W0AgVW2b1Xs/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Como es el EXAMEN de la primera fase del ArgentinaPrograma | ArgentinaPrograma[2] - StonerDev
+
+<a href="https://www.youtube.com/watch?v=RFpEnN_QVmA"><img src="https://i.ytimg.com/vi/RFpEnN_QVmA/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+* Respuesta de Recuperatorio 12/04 10pm Argentina Programa - Luis Peralta
+
+<a href="https://www.youtube.com/watch?v=UoFRSveTfR4"><img src="https://i.ytimg.com/vi/UoFRSveTfR4/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+
 
 ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
   <div>
