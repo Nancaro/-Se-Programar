@@ -76,6 +76,29 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
 ## Enlaces de interes.
 
  https://htmlcheatsheet.com/js/
+ 
+## Documentación.
+### Gobstone.
+
+https://github.com/gobstones/gobstones-web/wiki/
+
+https://gobstones.github.io/
+
+### Javascript.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://devdocs.io/javascript/
+
+https://javascript.info/document
+
+### Ruby on rails.
+
+https://guides.rubyonrails.org/
+
+https://devdocs.io/rails~6.0/
+
+https://api.rubyonrails.org/
 
 ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
   <div>
