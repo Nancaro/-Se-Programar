@@ -6,6 +6,20 @@
 
 Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
+## Enlaces de comunidades Argentina programa.
+
+* Comunidad de discord Plan Argentina Programa OFICIAL.
+
+ <a href="https://discord.gg/6XjarsbzB5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+* Comunidad de discord Aulas virtuales / Marcelo
+
+ <a href="https://discord.gg/thxTgQaDzw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+
+* Comunidad de discord #Yo programo.
+
+ <a href="https://discord.gg/dYTEPeJETs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
 ## Recursos en vídeo.
