@@ -22,8 +22,32 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
  <a href="https://discord.gg/dYTEPeJETs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-## Recursos en vídeo.
+## Recursos en vídeo sobre el programa.
+* ARGENTINA PROGRAMA: Análisis ¿Anotarse o no? - MaxiPrograma.
 
+<a href="https://youtu.be/v7CnEYaXUdY"><img src="https://i.ytimg.com/vi_webp/v7CnEYaXUdY/hqdefault.webp" style="height: 50%; width:50%;"/></a>
+
+* ANALIZO EL PROYECTO ARGENTINA PROGRAMA - ¿VALE LA PENA? -SoyDalto.
+
+<a href="https://www.youtube.com/watch?app=desktop&v=G10ZAcP1X-k"><img src="https://i.ytimg.com/vi/G10ZAcP1X-k/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* 🔴 Argentina Programa - Primeros Pasos -Upper.
+
+<a href="https://www.youtube.com/watch?v=3Bm5pzZsIMg"><img src="https://i.ytimg.com/vi/3Bm5pzZsIMg/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* Argentina Programa - ¿Vale la pena? - ¿Sirve? - MI Experiencia 2022 -EL Boni
+
+<a href="https://www.youtube.com/watch?v=IsYbj5ZERmg"><img src="https://i.ytimg.com/vi/IsYbj5ZERmg/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* ARGENTINA PROGRAMA (MI OPINION). Sirve como CURSO DE PROGRAMACION? - Codeversations
+<a href="https://www.youtube.com/watch?v=erSJBJ8p9Ok"><img src="https://i.ytimg.com/vi/erSJBJ8p9Ok/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* Qué pienso de "Argentina Programa" [Como developer remoto] - Daniel Nuske
+<a href="https://www.youtube.com/watch?v=9Aotbde6PG0"><img src="https://i.ytimg.com/vi/9Aotbde6PG0/hqdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+## Enlaces de interes.
+
+ https://htmlcheatsheet.com/js/
 
 ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
   <div>
@@ -31,6 +55,7 @@ Si consideras útil este repositorio, apóyalo haciendo "★ Star" en el reposit
    <a href="https://ceneka.net/mp/d/Nancaro/" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
    <a href = "mailto:Nancaro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
+  
 
 ## Find me on:
 <div> 
